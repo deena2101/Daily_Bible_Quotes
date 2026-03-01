@@ -16,13 +16,16 @@ This project was built to create a simple, distraction-free devotional experienc
 -CSS3
 -JavaScript
 
-# 📸 Screenshots
-![Home page](screenshots/bible_main.png)
+## 📸 Screenshots
 
-(screenshots/bible_2.png)
+<p align="center">
+  <img src="screenshots/bible_main.png" width="800">
+</p>
 
-(screenshots/bible_1.png)
+<p align="center">
+  <img src="screenshots/bible_1.png" width="800">
+</p>
 
-(screenshots/bible_3.png)
-
-(screenshots/bible_4.png)
+<p align="center">
+  <img src="screenshots/bible_2.png" width="800">
+</p>
